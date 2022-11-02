@@ -19,5 +19,7 @@
 </body>
 <script>
 	var obj = {};
+	obj.name = "전형근";
+	obj["age"] = 26;
 </script>
 </html>
