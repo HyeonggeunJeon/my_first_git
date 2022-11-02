@@ -17,5 +17,7 @@
 	<p>리버스 커밋 - 특정 지점으로 돌아가 그 당시 행해졌던 내용을 하지 못하게 하는 것</p>
 	<p>필요하지 않은 내용</p>
 </body>
-<script></script>
+<script>
+	var obj = {};
+</script>
 </html>
