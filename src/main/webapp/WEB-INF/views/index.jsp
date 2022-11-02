@@ -9,7 +9,8 @@
 <style></style>
 </head>
 <body>
-
+	<h3>폐기 기능</h3>
+	<p>commit 하기 전 상태의 파일을 완전히 삭제하는 기능</p>
 </body>
 <script></script>
 </html>
