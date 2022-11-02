@@ -1,7 +1,0 @@
-.settings/
-.classpath
-.project
-.springBeans
-src/test/
-target/
-WebContent/META-INF/MANIFEST.MF
